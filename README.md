@@ -26,8 +26,8 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 - 🧑 More of me at my **[Portfolio Website](https://ritwik-portfolio.netlify.app/)**
 
 <hr>
-<h3 align="left">My Skills:</h3>
+<h3 align="left">I have worked with:</h3>
        
-[![I have worked with](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,react,redux,sass,bootstrap,tailwind,nodejs,docker,mongodb,express,firebase,postman,vscode,atom,pycharm,git,github,mysql,)](https://skillicons.dev)      
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,react,redux,sass,bootstrap,tailwind,nodejs,docker,mongodb,express,firebase,postman,vscode,atom,pycharm,git,github,mysql,)](https://skillicons.dev)      
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king0203&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>       
