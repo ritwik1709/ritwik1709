@@ -28,6 +28,6 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 <hr>
 <h3 align="left">My Skills:</h3>
        
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,react,redux,sass,tailwind,nodejs,mongodb,express,postman,vscode,git,github,mysql,)](https://skillicons.dev)      
+[![I have worked with](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,react,redux,sass,bootstrap,tailwind,nodejs,docker,mongodb,express,firebase,postman,vscode,atom,pycharm,git,github,mysql,)](https://skillicons.dev)      
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king0203&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>       
