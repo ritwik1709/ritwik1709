@@ -31,3 +31,9 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,react,redux,sass,bootstrap,tailwind,nodejs,docker,mongodb,express,firebase,postman,vscode,atom,pycharm,git,github,mysql,)](https://skillicons.dev)      
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king0203&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>       
+
+<br/>
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritwik1709&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik1709&theme=tokyonight" />
+</p>
