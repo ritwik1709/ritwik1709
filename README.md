@@ -37,4 +37,5 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritwik1709&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik1709&theme=tokyonight" />
 </p>
-[![An image of @ritwik1709's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritwik1709)](https://holopin.io/@ritwik1709)
+
+[![@ritwik1709's Holopin board](https://holopin.me/ritwik1709)](https://holopin.io/@ritwik1709)
