@@ -13,7 +13,7 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 
 - 💻 I specialize in Full-Stack Web Development.
 
-- 🚀 Currently working on MERN Stack projects.
+- 🚀 Currently exploring WEB3.
 
 - 💞️ I’m looking to collaborate on open-source projects.
   
