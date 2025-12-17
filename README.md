@@ -23,7 +23,7 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 
 - 📫 How to reach me **ritwikt17@gmail.com**
 
-- 🧑 More of me at my **[Portfolio Website](https://ritwik-portfolio.netlify.app/)**
+- 🧑 More of me at my **[Portfolio Website](https://portfolio-xi-eight-68.vercel.app/)**
 
 <hr>
 <h3 align="left">I have worked with:</h3>
