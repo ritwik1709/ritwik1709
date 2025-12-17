@@ -21,7 +21,7 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 
 - ✍️ I also enjoy writing clean code and keeping things organized.
 
-- 📫 Want to contact me? DM me on my profile: <a href="https://linkedin.com/in/ritwik-sudhakar-tat-047a88194/">Linkedin</a>,  <a href="https://twitter.com/RitwikTat">Twitter</a> 
+- 📫 How to reach me **ritwikt17@gmail.com**
 
 - 🧑 More of me at my **[Portfolio Website](https://ritwik-portfolio.netlify.app/)**
 
@@ -29,19 +29,25 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 <h3 align="left">I have worked with:</h3>
        
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,react,redux,sass,bootstrap,tailwind,nodejs,docker,mongodb,express,firebase,postman,vscode,atom,pycharm,git,github,mysql,)](https://skillicons.dev)      
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ritwik-sudhakar-tat-047a88194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwik-sudhakar-tat-047a88194" height="30" width="40" /></a>
+<a href="https://twitter.com/RitwikTat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RitwikTat" height="30" width="40" /></a>
+<a href="https://instagram.com/tatsangram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tatsangram" height="30" width="40" /></a>
+</p>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king0203&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>       
 
 <br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritwik1709&theme=dark&hide_border=false" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=ritwik1709&theme=dark&hide_border=false" />
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik1709&theme=dark&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik1709&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwik1709&show_icons=true&locale=en&theme=dracula" alt="ritwik1709" /></p>
 
+[![Ritwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritwik1709&theme=dracula)](https://github.com/ritwik1709/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritwik1709&theme=dark)](https://git.io/streak-stats)
+
+<br>
 
 [![@ritwik1709's Holopin board](https://holopin.me/ritwik1709)](https://holopin.io/@ritwik1709)
