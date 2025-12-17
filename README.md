@@ -35,10 +35,10 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 <br/>
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritwik1709&show_icons=true&theme=tokyonight" />
-</p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ritwik1709)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=ritwik1709&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritwik1709&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik1709&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
 [![@ritwik1709's Holopin board](https://holopin.me/ritwik1709)](https://holopin.io/@ritwik1709)
