@@ -4,10 +4,10 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ritwik!</h1>
-<h3 align="center">I'm a Passionate MERN Stack Developer from India.</h3>
+<h3 align="center">I'm a Passionate Full Stack Developer from India.</h3>
 
 <h2> About Me </h2> 
-I am a Code passionate , Always exited to explore various tech fields and keen to learn something new day by day. 
+I am a code enthusiast, always excited to explore various tech fields and keen to learn something new every day. 
 
 <h3>🎓I'm a student at ABV-IIITM Gwalior</h3> 
 
