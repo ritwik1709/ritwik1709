@@ -14,7 +14,7 @@ I am a code enthusiast, always excited to explore various tech fields and keen t
 
 - 💻 I specialize in Full-Stack Web Development.
 
-- 🚀 Currently exploring WEB3.
+- 🚀 Building full-stack AI-powered applications.
 
 - 💞️ I’m looking to collaborate on open-source projects.
   
