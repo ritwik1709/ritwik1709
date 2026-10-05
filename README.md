@@ -43,7 +43,7 @@ I am a code enthusiast, always excited to explore various tech fields and keen t
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwik1709&show_icons=true&locale=en&theme=dracula" alt="ritwik1709" /></p>
+![](https://github-readme-stats.shion.dev/api?username=ritwik1709&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 [![Ritwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritwik1709&theme=dracula)](https://github.com/ritwik1709/github-readme-activity-graph)
 
