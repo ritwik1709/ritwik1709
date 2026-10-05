@@ -29,7 +29,7 @@ I am a code enthusiast, always excited to explore various tech fields and keen t
 <hr>
 <h3 align="left">I have worked with:</h3>
        
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,react,redux,sass,bootstrap,tailwind,nodejs,docker,mongodb,express,firebase,postman,vscode,atom,pycharm,git,github,mysql,)](https://skillicons.dev)      
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,react,nextjs,redux,sass,bootstrap,tailwind,nodejs,docker,mongodb,express,prisma,firebase,postman,vscode,atom,pycharm,git,github,mysql,)](https://skillicons.dev)      
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
