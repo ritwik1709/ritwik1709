@@ -35,7 +35,6 @@ I am a code enthusiast, always excited to explore various tech fields and keen t
 <p align="left">
 <a href="https://linkedin.com/in/ritwik-sudhakar-tat-047a88194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwik-sudhakar-tat-047a88194" height="30" width="40" /></a>
 <a href="https://twitter.com/RitwikTat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RitwikTat" height="30" width="40" /></a>
-<a href="https://instagram.com/tatsangram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tatsangram" height="30" width="40" /></a>
 </p>
 
 <br>
